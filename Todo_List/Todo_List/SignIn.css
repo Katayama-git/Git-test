@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(233, 233, 233);
+    max-width: 100%;
+    max-height: 100%;
+}
+form{
+    border: 1px solid white;
+    border-radius: 20px;
+    text-align: center;
+    background-color: white;
+    color: black;
+    margin: 8%;
+}
+header{
+    margin-top: 8%;
+    margin-bottom: 5%;
+}
+main{
+    div{
+        padding-left: 15px;
+        margin: 10px 9% 50px 8.5%;
+    }
+    a{
+        text-decoration: none;
+        color: white;
+        background-color: #3366FF;
+        border-radius: 3px ;
+        padding: 12px 9% 12px 9%;
+    }
+}
+
+footer{
+    font-size: large;
+    margin-bottom: 10%;
+    a{
+        text-decoration: none;
+        color: blue;
+        padding: 10px;
+        margin-left: 80px;
+        
+    }
+
+}
