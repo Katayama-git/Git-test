@@ -5,3 +5,7 @@ function abc(){
 function def(){
     alert("alert");
 }
+
+function ghi(){
+    alert("alert");
+}
