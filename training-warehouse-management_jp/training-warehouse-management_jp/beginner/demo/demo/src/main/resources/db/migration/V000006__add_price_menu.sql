@@ -1,0 +1,1 @@
+ALTER TABLE example_menu ADD COLUMN price decimal(10, 2);
